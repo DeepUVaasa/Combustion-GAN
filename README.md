@@ -11,9 +11,10 @@ place the dataset in experiments/ecg/dataset/preprocessed/
 
 # Training and Evaluation
 To train the model, open run_ecg.sh and update test=0.
-´´
+
+``
 bash run_ecg.sh 
-´´
+``
 
 To evaluate on the test data after training, update the run_ecg.sh file (test=1)
 
