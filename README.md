@@ -10,7 +10,7 @@ place the dataset in experiments/ecg/dataset/preprocessed/
 
 
 # Training and Evaluation
-To train the model, open run_ecg.sh and update test=0.
+To train the model, open run_ecg.sh and update run_ecg.sh file (test=0).
 
 ``
 bash run_ecg.sh 
@@ -23,4 +23,4 @@ bash run_ecg.sh
 ``
 
 # Acknowledgement 
-We want to BeatGAN author for their code.
+We want to the BeatGAN authors for their code.
