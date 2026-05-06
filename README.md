@@ -2,7 +2,7 @@
 Abnormal combustion cycle classification 
 
 # ECG Dataset
-Download the ECG (full MIT-BIH dataset) dataset from BeatGAN github:  
+Download the ECG (full MIT-BIH dataset) dataset from BeatGAN github repository:  
 
 https://github.com/imbingox/BeatGAN 
 
