@@ -23,4 +23,4 @@ bash run_ecg.sh
 ``
 
 # Acknowledgement 
-We want to the BeatGAN authors for their code.
+This code is based on BeatGAN (https://github.com/imbingox/BeatGAN), thanks for this wonderful work. 
