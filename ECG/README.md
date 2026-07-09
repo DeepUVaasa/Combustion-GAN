@@ -1,5 +1,5 @@
-# Combustion-GAN
-Abnormal combustion cycle classification 
+# Anomaly Detection 
+Anomalous bit detection from ECG data 
 
 # ECG Dataset
 Download the ECG (full MIT-BIH dataset) dataset from BeatGAN github repository:  
