@@ -15,6 +15,7 @@ From pytorch (https://pytorch.org/) website, install the latest version of pytor
 ``
 pip install numpy matplotlib seaborn scipy scikit-learn scikit-image tqdm 
 ``
+
 For Electrocardiography (ecg) data, go to ECG folder. 
 
 For in-cylinder combustion pressure (ISCP) data, go to ISCP folder. 
