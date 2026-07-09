@@ -7,17 +7,17 @@ Download the data and unzip them in ./experiments/iscp/dataset/ folder.
 
 # Trained Model
 The trained model is provided in the ./experiment/iscp/output/CombustionGAN/iscp/model/ folders. 
-# Inference 
-For inference, open run_iscp.sh file and change value of "test=1" if it is not already 1.  
-´´
+# Evaluation 
+For evaluation, open run_iscp.sh file and change the value of "test=1" if it is not already 1.  
+``
 bash run_iscp.sh 
-´´
+``
 # Training 
 If you want to train your own model, open the run_iscp.sh file and replace the "test=1" to "test=0". Save the file and run the following command in the terminal:
 
-´´
+``
 bash run_iscp.sh 
-´´
+``
 
 # Acknowledgement 
 This code is based on BeatGAN (https://github.com/imbingox/BeatGAN), thanks for this wonderful work.
