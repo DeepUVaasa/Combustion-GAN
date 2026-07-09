@@ -1,3 +1,6 @@
+# Combustion-GAN
+Abnormal combustion cycle detection 
+
 # Dataset 
 ## The preprocessed in-cylinder pressure data can be downloaded from this google drive link:
 
