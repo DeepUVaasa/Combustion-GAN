@@ -14,6 +14,7 @@ For evaluation, open run_iscp.sh file and change the value of "test=1" if it is 
 ``
 bash run_iscp.sh 
 ``
+
 The reconstructed samples can be found in ./experiments/iscp/output/CombustionGAN/iscp/test/ folder. The residue between the input test data and the reconstructed data will be in the same folder.  
 
 # Training 
