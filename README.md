@@ -1,3 +1,6 @@
+# Anomaly Detection / Fault Detection / Condition-based Monitoring 
+Abnormal combustion cycle classification 
+
 # Environment Setup 
 If you already have an Ubuntu machine (Ubuntu version >= 20.4), and the Anaconda (https://www.anaconda.com/download) is already installed in it, do the following to setup the enviromnent: 
 
