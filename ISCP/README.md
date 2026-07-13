@@ -7,7 +7,12 @@ Abnormal combustion cycle detection
 https://drive.google.com/file/d/1CUlUp6NBntQr_viBEE4XilfZsM2aILJI/view?usp=sharing (contain preprocessed data (3 data splits))
 
 Download the data and unzip them in ./experiments/iscp/dataset/ folder. 
-
+Data shoud be: 
+dataset/ <br>
+        final_augmented_combustion_pressure_data_w20_s20_split1.npz <br>
+        final_augmented_combustion_pressure_data_w20_s20_split2.npz <br>
+        final_augmented_combustion_pressure_data_w20_s20_split3.npz <br>
+        
 # Trained Model
 The trained model is provided in the ./experiment/iscp/output/CombustionGAN/iscp/model/ folder.
 
